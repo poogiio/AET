@@ -5,21 +5,13 @@ N:Sedano Cardona;Hernán;;;
 EMAIL;TYPE=INTERNET;TYPE=WORK:hernansedano@sporos.coop
 EMAIL;TYPE=INTERNET;TYPE=HOME:hdsedano@gmail.com
 TEL;TYPE=WORK:+34 649 07 23 62
-TEL;TYPE=CELL:+57 315 3559761
-ADR;TYPE=HOME:;;90 Carrer del Conill;Pals;Girona;17256;ES;90 Carrer del Con
- ill\n17256 Pals\nGirona\nES
 ADR;TYPE=HOME:;Planta Bajo\, Puerta 1;Calle FONT 6;Pals;Girona;17256;ES;Cal
  le FONT 6\nPlanta Bajo\, Puerta 1\nPals\nGirona\n17256\nES
-item1.ORG:Sporos.coop
+item1.ORG:poogi.io
 item1.X-ABLabel:
-item2.TITLE:Gerente
+item2.TITLE:Founder/CEO
 item2.X-ABLabel:
-item3.URL:sporos.coop
+item3.URL:poogi.io
 item3.X-ABLabel:Company Website
 URL:poogi.io
-NOTE:Passport\: AT 251343\nNIE\: Y9223900-V\nNúmero de la seguridad social 
- (NUSS)\: 171064819135\n\nCuenta IBAN\nBE71 9672 5500 3969\n\n\nGender: Male
-PHOTO:https://lh3.googleusercontent.com/contacts/ADUEL1zMnwflsx4uq2-7VyVqtW
- U72qtBC0VrjBFT0O6JqL1s0tIWMEp7
-CATEGORIES:sporos,myContacts,starred
 END:VCARD
